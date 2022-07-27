@@ -1,0 +1,67 @@
+{
+  "name": "cad-redux",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@mapbox/mapbox-gl-draw": "^1.1.2",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "@urbica/react-map-gl": "^1.13.1",
+    "@urbica/react-map-gl-draw": "^0.3.4",
+    "axios": "^0.19.2",
+    "bar-chart-react": "^1.0.2",
+    "base-64": "^0.1.0",
+    "bootstrap": "^4.5.3",
+    "geolib": "^3.3.1",
+    "howler": "^2.2.0",
+    "image-to-base64": "^2.1.1",
+    "javascript-time-ago": "^2.0.8",
+    "jsonwebtoken": "^8.5.1",
+    "jssip": "^3.5.3",
+    "lodash": "^4.17.20",
+    "plotly.js": "^1.54.5",
+    "react": "^16.13.1",
+    "react-bar-chart": "^0.1.2",
+    "react-charts": "^2.0.0-beta.7",
+    "react-circle": "^1.1.1",
+    "react-circular-progressbar": "^2.0.3",
+    "react-dom": "^16.13.1",
+    "react-horizontal-stacked-bar-chart": "^8.15.2",
+    "react-map-gl": "^5.2.7",
+    "react-map-gl-draw": "^0.19.0",
+    "react-minimal-pie-chart": "^8.0.1",
+    "react-plotly.js": "^2.4.0",
+    "react-redux": "^7.2.0",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^4.0.1",
+    "react-sip": "^0.8.1",
+    "react-time-ago": "^6.0.0",
+    "react-toastify": "^6.0.8",
+    "react-toasts": "^3.0.6",
+    "redux": "^4.0.5",
+    "uniqid": "^5.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
