@@ -1,0 +1,48 @@
+
+### Pending Stuff w.r.t. the Current Code
+
+>>> Panel Seperation & Completion
+o>> Notification logs
+o>> Notification Changed Format
+>>> Groups Hierarichy
+>>> Auto Zoom Level Adjustment
+>>> Operator Assignment Module
+>>> Filters of OperatorInvolved / SupervisorInvolvedd
+o>> Subscription Renewal & Resetings
+o>> APIs to Process the Responder Sections
+>>> Responder Creation via CAD
+
+### Done for Today
+
+>>> Profile Module
+>>> Account Log Status
+
+
+------------------------------------------------------------
+
+
+
+>> Re-Cover Panic Notification with Beep						[ 20 min ]
+>> Auto Movement to the Panic Location when Panic is Generated				[ 40 min ]
+>> Responder Crud									[ 1 Hour ]
+>> Circle widgets from Percentage to Numbers						[ 30 min ]
+>> Online Operators									[ 40 min ]
+>> Operator Assignment / Duty Widget							[ 1 Hour ]
+>> Geofence Boundry Alerts								[ 2 Hours ]
+>> Groups Hierarchy and Data Filteration in Accordance to Roles				[ 6 Hours ]
+>> Operator Panic Process								[ 30 min ]
+>> Geofence Spot									[ 30 min ]
+>> Subscription Renewals in Web Handled							[ 1 Hour ]
+>> Buzy and Free Responders								[ 30 min ]
+>> Responder Data Completion								[ 15 min ]
+>> Admin Access to Close a Panic Any Time						[ 20 min ]
+>> Customer Rating Views								[ 30 min ]
+>> Admin Access to Delete Any Reponder							[ 20 min ]
+>> Admin Access for Force Logouts							[ 1 Hour ]
+>> UI Widget Responsiveness								[ 20 min ]
+>> Status Bar Allignment								[ 15 min ]
+
+Total => 19 - 20 Hours ( Make about 3 Days )
+
+
+---------------------------

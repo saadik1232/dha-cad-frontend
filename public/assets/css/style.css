@@ -1,0 +1,170 @@
+* {
+  /* margin: 0px !important;
+  padding: 0px !important; */
+  font-family: "Comic Sans MS";
+}
+
+body {
+  height: 100vh !important;
+  overflow: hidden !important;
+}
+
+.map {
+  background-size: cover !important;
+  background-attachment: fixed !important;
+  width: 100% !important;
+  height: 100vh !important;
+}
+
+#mapContainer {
+  width: 100% !important;
+  height: 100vh !important;
+  z-index: 5 !important;
+}
+
+#topBar {
+  background: #369 !important;
+  color: #fff !important;
+  position: absolute !important;
+  width: 100% !important;
+  padding: 5px 0px !important;
+  z-index: 15 !important;
+}
+
+.red {
+  color: red !important;
+}
+
+.pullRight {
+  float: right !important;
+  clear: both !important;
+}
+
+.sharp-border {
+  border-radius: 0px !important;
+}
+
+#displays {
+  opacity: 0.7;
+  position: absolute !important;
+  top: 0px;
+  height: 100vh !important;
+  background: #eee;
+  color: #fff;
+  z-index: 10 !important;
+  width: 50vw !important;
+  margin: 0px !important;
+  padding: 0px !important;
+  /* border: 1px solid #000 !important; */
+}
+#displays * {
+  font-weight: bolder !important;
+  font-size: 16px !important;
+}
+.displayRight {
+  right: 0px !important;
+  width: 100% !important;
+  /* border: 1px solid #000 !important; */
+}
+.displayRight2 {
+  right: 50vw !important;
+  /* border: 1px solid #000 !important; */
+}
+#displays #bar {
+  background: #eee;
+  color: #000;
+  padding: 5px !important;
+  margin: 0px !important;
+  border: 0px !important;
+}
+#displays #bar2 {
+  background: #eee;
+  color: #000;
+  padding: 5px !important;
+  margin: 0px !important;
+  border: 0px !important;
+}
+#displays .panel {
+  background: #eee !important;
+  padding: 0px !important;
+  margin: 0px !important;
+}
+#displays .bar {
+}
+#displays .panel .bar .head {
+  background: #eee;
+  color: #000;
+  padding: 5px !important;
+  width: 50vw !important;
+  height: 5vh !important;
+  border-bottom: 1px solid #000 !important;
+}
+#displays .panel .bar .body {
+  border-bottom: 1px solid #000 !important;
+  background: #eee;
+  color: #000;
+  padding: 10px !important;
+  width: 50vw !important;
+  height: 40vh !important;
+}
+
+/* Part 2 */
+
+/* Events */
+
+#event {
+  opacity: 0.7;
+  position: absolute !important;
+  top: 0px;
+  left: 0px;
+  height: 100vh !important;
+  background: #369;
+  color: #fff;
+  z-index: 10 !important;
+  width: 25vw !important;
+}
+#event #bar {
+  background: #369;
+  color: #fff;
+  padding: 5px !important;
+}
+#event #bar2 {
+  background: #369;
+  color: #fff;
+  padding: 5px !important;
+}
+#event #form {
+  background: #369;
+  color: #fff;
+  padding: 10px !important;
+  text-align: center !important;
+}
+#event #form #levels {
+  padding: 10px !important;
+}
+#event #form #fields {
+}
+
+.form-group {
+  margin-bottom: 10px !important;
+  text-align: left !important;
+}
+
+.textBar {
+  outline: 0 !important;
+  border: 0 !important;
+  border-radius: 0 !important;
+  background-color: #eee !important;
+  color: #369 !important;
+  width: 85%;
+  padding: 5px !important;
+  margin: 5px !important;
+  font-weight: bolder !important;
+}
+
+table {
+  font-size: 10px !important;
+}
+table > tbody > tr {
+  line-height: 5 !important;
+}
